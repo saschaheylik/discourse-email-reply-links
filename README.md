@@ -1,7 +1,7 @@
 # discourse-email-reply-links
 Adds clickable mailto links at the end of a notification email (HTML only) to allow you to like, watch, track or mute a post or topic.
 
-Are you looking for a freelance developer for a Ruby on Rails project or something else? [Here is my LinkedIn, let's connect!](https://www.linkedin.com/in/sascha-heylik-a87702233/)
+Are you looking for a freelance developer for a Ruby on Rails project, Discourse customization or something else? [Here is my LinkedIn, let's connect!](https://www.linkedin.com/in/sascha-heylik-a87702233/)
 
 # This is what it looks like
 
